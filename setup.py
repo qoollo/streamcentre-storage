@@ -2,10 +2,9 @@
 from setuptools import setup
 
 setup(
-    name='XXX Storage',
-    version='1.0',
+    name='StreamCentre Storage',
+    version='0.2.0.0',
     long_description=__doc__,
-    packages=['storageapp'],
     include_package_data=True,
     zip_safe=False,
     setup_requires=['Flask'],
